@@ -1,0 +1,26 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+h1,p{
+    color: rgb(177, 135, 51);
+    font-size: 24px;
+    text-align: center;
+}
+p.bar,a,p{
+    background-color: rgb(231, 198, 156);
+    color: aliceblue;
+    text-align: center;
+    text-decoration: rgb(41, 69, 93);
+    text-shadow: 3px;
+}
+
+img{
+    margin: 10px;
+    padding: 10px;
+}
+
+
+    
